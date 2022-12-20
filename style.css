@@ -1,0 +1,31 @@
+.bd{
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 10px;
+}
+
+.main{
+    width: 1250px;
+    margin: auto;
+    border: 10px inset rgb(71, 237, 246);
+}
+
+.main-2{
+    margin: auto;
+    border: 8px inset rgb(118, 130, 211);
+}
+
+/* .image{
+    height:300px;
+    width: 300px;
+
+} */
+
+.ctr{
+    height: 270px;
+    margin: 30px;
+}
+
+.mag{
+    margin: 6px 0px 6px 0px;
+}
